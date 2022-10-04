@@ -12,7 +12,7 @@ You can find and get in touch with me on below accounts!
 
 [![Twitter Badge](https://img.shields.io/badge/theoliver-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/theoliver/)
 
-[My homepage](https://oliverscheer.github.io)
+[My homepage](https://www.oliverscheer.net)
 
 <!--
 **oliverscheer/oliverscheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
