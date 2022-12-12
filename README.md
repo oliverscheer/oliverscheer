@@ -12,7 +12,7 @@ You can find and get in touch with me on below accounts!
 
 [![Twitter Badge](https://img.shields.io/badge/theoliver-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/theoliver/)
 
-[My homepage](https://www.oliverscheer.net)
+[My homepage](https://oliverscheer.github.io)
 
 <!--
 
