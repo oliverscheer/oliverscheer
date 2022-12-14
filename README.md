@@ -2,7 +2,7 @@
 
 My name is Oliver Scheer, I'm a Senior Software Engineer with over 20 years of coding experiences.
 
-I'm working at Microsoft Corporation, focused on challenging projects with customers in a group called CSE ([Commercial Software Engineering](https://microsoft.github.io/code-with-engineering-playbook/CSE.html)).
+I'm working at Microsoft Corporation, focused on challenging projects with customers in a group called CSE ([Commercial Software Engineering](https://microsoft.github.io/code-with-engineering-playbook/CSE/)).
 
 ## 📫 How to reach me
 
