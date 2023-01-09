@@ -10,9 +10,24 @@ You can find and get in touch with me on below accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/oliverscheer-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/scheeroliver/)
 
-[![Twitter Badge](https://img.shields.io/badge/theoliver-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/theoliver/)
-
 [My homepage](https://oliverscheer.github.io)
+
+## 🔭 I’m currently working on
+
+- GitHub Actions
+- Python
+- Bash
+- Azure Cloud Services
+    - Synapse
+    - PurView
+    - Azure Functions
+    - and many more
+- Visual Studio Code
+
+## ⚡ Fun facts
+
+I started coding on a Commodore 128. I used the capability of booting directly into a program to print my daily school agenda.
+
 
 <!--
 
@@ -24,6 +39,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
