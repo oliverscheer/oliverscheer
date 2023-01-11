@@ -1,8 +1,10 @@
-# 👋 Hi there
+# Hi there, I'm Oliver Scheer 👋
 
-My name is Oliver Scheer, I'm a Senior Software Engineer with over 20 years of coding experiences.
+Senior Software Engineer at Industry Solutions Engineering / Commercial Software Engineering.
 
 I'm working at Microsoft Corporation, focused on challenging projects with customers in a group called CSE ([Commercial Software Engineering](https://microsoft.github.io/code-with-engineering-playbook/CSE/)).
+
+![Olivers GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverscheer&show_icons=true&theme=transparent)
 
 ## 📫 How to reach me
 
@@ -12,22 +14,21 @@ You can find and get in touch with me on below accounts!
 
 [My homepage](https://oliverscheer.github.io)
 
-## 🔭 I’m currently working on
+<!-- ## 🔭 I’m currently working on
 
 - GitHub Actions
 - Python
 - Bash
 - Azure Cloud Services
-    - Synapse
-    - PurView
-    - Azure Functions
-    - and many more
+  - Synapse
+  - PurView
+  - Azure Functions
+  - and many more
 - Visual Studio Code
 
 ## ⚡ Fun facts
 
-I started coding on a Commodore 128. I used the capability of booting directly into a program to print my daily school agenda.
-
+I started coding on a Commodore 128. I used the capability of booting directly into a program to print my daily school agenda. -->
 
 <!--
 
