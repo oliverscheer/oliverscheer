@@ -2,42 +2,30 @@
 
 Senior Software Engineer at Industry Solutions Engineering / Commercial Software Engineering.
 
-I'm working at Microsoft Corporation, focused on challenging projects with customers in a group called CSE ([Commercial Software Engineering](https://microsoft.github.io/code-with-engineering-playbook/CSE/)).
+Based in Munich, Germany.
 
-![Olivers GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverscheer&show_icons=true&theme=transparent)
+- 🔭 I’m currently working
+  - at Microsoft Corporation as Senior Software Engineer, solving customers most challenging problems.
+  - in a group called Industry Solution Engineering / CSE ([Commercial Software Engineering](https://microsoft.github.io/code-with-engineering-playbook/CSE/)).
+  - on Azure, Synapse, PurView, Functions, Python, and some more things.
+  - with an awesome team and great engineers from our customers.
 
-## 📫 How to reach me
+<!-- - 👯 I’m looking to collaborate on ... -->
+- 🤔 I’m publish here and on my [homepage](https://oliverscheer.github.io)
 
-You can find and get in touch with me on below accounts!
-
-[![Linkedin Badge](https://img.shields.io/badge/oliverscheer-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/scheeroliver/)
-
-[My homepage](https://oliverscheer.github.io)
-
-<!-- ## 🔭 I’m currently working on
-
-- GitHub Actions
-- Python
-- Bash
-- Azure Cloud Services
-  - Synapse
-  - PurView
-  - Azure Functions
-  - and many more
-- Visual Studio Code
-
-## ⚡ Fun facts
-
-I started coding on a Commodore 128. I used the capability of booting directly into a program to print my daily school agenda. -->
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+  - C#, Python, .net
+  - DevOps, GitHub
+  - Azure Cloud Services
+  - Developer Tools and Practices
+  - Live concerts
+
+- 📫 How to reach me:
+  - [![Linkedin Badge](https://img.shields.io/badge/oliverscheer-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/scheeroliver/)
+
+- ⚡ Fun fact:
+  - I started coding on an Apple IIe with Turbo Pascal 3.0
+
+- My stats on GitHub
+
+    ![Olivers GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverscheer&show_icons=true&theme=transparent)
