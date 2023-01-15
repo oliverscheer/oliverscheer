@@ -1,23 +1,24 @@
 # Hi there, I'm Oliver Scheer 👋
 
-Senior Software Engineer at Industry Solutions Engineering / Commercial Software Engineering.
+I'm a Senior Software Engineer writing commercial software since 25+ years.
 
-Based in Munich, Germany.
+- 👯 Based in Munich, Germany.
+
+- 🤔 My [homepage](https://oliverscheer.github.io)
 
 - 🔭 I’m currently working
   - at Microsoft Corporation as Senior Software Engineer, solving customers most challenging problems.
   - in a group called Industry Solution Engineering / CSE ([Commercial Software Engineering](https://microsoft.github.io/code-with-engineering-playbook/CSE/)).
-  - on Azure, Synapse, PurView, Functions, Python, and some more things.
-  - with an awesome team and great engineers from our customers.
-
-<!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m publish here and on my [homepage](https://oliverscheer.github.io)
+  - on Azure, GitHub, Synapse, PurView, Functions, Python, and some more things.
+  - with an awesome team and great engineers from our international customers.
 
 - 💬 Ask me about ...
-  - C#, Python, .net
-  - DevOps, GitHub
+  - C#, Python, .net, ...
+  - DevOps on GitHub & Azure DevOps
   - Azure Cloud Services
-  - Developer Tools and Practices
+  - Developer Tools like VS and VS Code
+  - Agile methodologies like Scrum and SaFE
+  - Best and worst practices about working remotely together as team
   - Live concerts
 
 - 📫 How to reach me:
@@ -26,6 +27,8 @@ Based in Munich, Germany.
 - ⚡ Fun fact:
   - I started coding on an Apple IIe with Turbo Pascal 3.0
 
-- My stats on GitHub
+---
 
-    ![Olivers GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverscheer&show_icons=true&theme=transparent)
+![Olivers GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverscheer&show_icons=true&theme=transparent)
+
+<!-- - 👯 I’m looking to collaborate on ... -->
