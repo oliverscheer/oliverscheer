@@ -22,10 +22,10 @@ I'm a Senior Software Engineer writing commercial software since 25+ years.
   - Live concerts
 
 - 📫 How to reach me:
-  - [![Linkedin Badge](https://img.shields.io/badge/oliverscheer-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/scheeroliver/)
 
-- ⚡ Fun fact:
-  - I started coding on an Apple IIe with Turbo Pascal 3.0
+    [![Linkedin Badge](https://img.shields.io/badge/oliverscheer-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/scheeroliver/)
+
+- ⚡ Fun fact: I started coding on an Apple IIe with Turbo Pascal 3.0
 
 ---
 
