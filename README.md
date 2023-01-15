@@ -26,9 +26,3 @@ I'm a Senior Software Engineer writing commercial software since 25+ years.
     [![Linkedin Badge](https://img.shields.io/badge/oliverscheer-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/scheeroliver/)
 
 - ⚡ Fun fact: I started coding on an Apple IIe with Turbo Pascal 3.0
-
----
-
-![Olivers GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverscheer&show_icons=true&theme=transparent)
-
-<!-- - 👯 I’m looking to collaborate on ... -->
