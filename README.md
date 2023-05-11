@@ -6,10 +6,6 @@ I'm a Senior Software Engineer writing commercial software since 25+ years.
 
 - 🤔 My [homepage](https://oliverscheer.net)
 
-- 🔭 I’m currently working
-  - on Azure, GitHub, Synapse, PurView, Functions, Python, and some more things.
-  - with an awesome team and great engineers from our international customers.
-
 - 💬 Ask me about ...
   - C#, .net,  Bash, WSL2, Python, ...
   - DevOps on GitHub & Azure DevOps
