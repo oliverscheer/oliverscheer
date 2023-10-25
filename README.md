@@ -1,21 +1,13 @@
-# Hi there, I'm Oliver Scheer 👋
+# Hello and Servus, I'm Oliver Scheer 👋
 
-I'm a Senior Software Engineer writing commercial software since 25+ years.
+I'm a Principal Software Engineer working [@medialesson](https://github.com/medialesson).
 
-- 👯 Based in Munich, Germany.
+My focus topics are:
 
-- 🤔 My [homepage](https://oliverscheer.net)
-
-- 💬 Ask me about ...
-  - C#, .net,  Bash, WSL2, Python, ...
-  - DevOps on GitHub & Azure DevOps
-  - Azure Cloud Services
-  - Developer Tools like VS and VS Code
-  - Agile methodologies like Scrum and SaFE
-  - Best and worst practices about working remotely together as team
-  - Live concerts
-
-- 📫 How to reach me:\
+- ☁️ Azure Cloud
+- 🧑‍💻 .net
+- 🔧 DevOps with Azure and GitHub
+- 🏠 I'm living close to Munich, Germany, Europe, Planet Earth
+- 🌐 My Homepage is always under construction: [https://oliverscheer.net](https://oliverscheer.net)
+- 📫 Contact:\
     [![Linkedin Badge](https://img.shields.io/badge/oliverscheer-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/scheeroliver/)
-
-- ⚡ Fun fact: I started coding on an Apple IIe with Turbo Pascal 3.0
