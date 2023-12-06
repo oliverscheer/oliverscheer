@@ -1,6 +1,6 @@
 # Hello and Servus, I'm Oliver Scheer 👋
 
-I'm a Principal Software Engineer working [@medialesson](https://github.com/medialesson).
+I'm a Principal Software Engineer working at [@medialesson](https://github.com/medialesson).
 
 My focus topics are:
 
