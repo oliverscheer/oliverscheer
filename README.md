@@ -1,6 +1,6 @@
 # Hello and Servus, I'm Oliver Scheer 👋
 
-I'm a seasoned Principal Software Engineer with over two decades of professional experience in software development. With a keen focus on developer experiences, DevOps, and cloud technologies, I bring a wealth of expertise across various frontend, backend, and cloud platforms. 
+I'm a seasoned Principal Software Engineer with over two decades of professional experience in software development in the field. With a keen focus on working in teams, developer experiences, DevOps, and cloud technologies, I bring a wealth of expertise across various frontend, backend, and cloud platforms. 
 
 As an open-minded and empathetic developer, I thrive on collaborative coding endeavors, finding joy in writing code as part of a team. I also assume the role of an architect, adept at unraveling and solving complex technical challenges for our valued customers. 
 
@@ -12,9 +12,10 @@ Right now I'm working as a Principal Software Engineer at [@medialesson](https:/
 
 My focus topics are:
 
+- 🧑 Working in Teams
 - ☁️ Azure Cloud
 - 🔧 DevOps with GitHub and Azure
-- ⌨️ Developer Exeriences
+- ⌨️ Developer Experiences
 - 🧑‍💻 .net
 
 About me:
