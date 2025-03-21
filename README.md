@@ -1,28 +1,94 @@
-# Hello and Servus, I'm Oliver Scheer 👋
+# Hello and Servus👋
 
-I'm a seasoned Principal Software Engineer with over two decades of professional experience in software development. With a keen focus on .net, developer experiences, DevOps, and cloud technologies, I bring a wealth of expertise across various frontend, backend, and cloud platforms. 
+Hey, I'm Oliver Scheer.
 
-As an open-minded and empathetic developer, I thrive on collaborative coding endeavors, finding joy in writing code as part of a team. I also assume the role of an architect, adept at unraveling and solving complex technical challenges for our valued customers. 
+Nice to have you here.
 
-An enthusiastic advocate of cloud technologies, I am committed to staying abreast of the latest advancements in the field. Above all, I embody pragmatism in my approach, always eager to glean new knowledge and insights each day. 
+"Code is like humor. When you have to explain it, it’s bad." — Cory House
 
-Join me on this journey as we navigate the ever-evolving landscape of software development and cloud technology.
+---
 
-Right now I'm working as a Principal Software Engineer at [@medialesson](https://github.com/medialesson).
+## Some Facts About Me
 
-My focus topics are:
+- Principal Software Engineer
+- More than 25+ years of professional experiences in software development
+- Passionated about solving challenges with innovation and pragmatism
+- Focusing on modern technologies like AI, Cloud, DevOps like .net, Python, GitHub, and many more
+- Enthusiastic about good developer experiences and satisfied customers
+- Promote continuous learning and support teams in constantly improving.
+- Passionated about Software Engineering
+- 🏠 Living close to Munich, Germany, Europe, Planet Earth
+- 🌐 Homepage is always under construction: [https://www.oliverscheer.tech](https://www.oliverscheer.tech)
+- ☕ Coffee Lover on [buymeacoffee](https://www.buymeacoffee.com/oliverscheer)
+- 📫 Contactable via [LinkedIn](https://www.linkedin.com/in/scheeroliver/)
 
-- 🧑 Working with Passionate Developers and Customers
-- ☁️ Azure Cloud
-- 🔧 DevOps with GitHub and Azure
-- ⌨️ Developer Experiences
-- 🧑‍💻 .net
+---
 
-About me:
+## My Career
 
-- 🏠 I'm living close to Munich, Germany, Europe, Planet Earth
-- 🌐 My Homepage is always under construction: [https://www.oliverscheer.net](https://www.oliverscheer.net)
-- ☕ Buy me a coffee on [buymeacoffee](https://www.buymeacoffee.com/oliverscheer)
+| Company                    | Title                                 |
+| -------------------------- | ------------------------------------- |
+| Medialesson                | Principal Software Engineer           |
+| Microsoft Corporation      | Senior Software Engineer              |
+| Microsoft Deutschland GmbH | Senior Technical & Partner Evangelist |
+| RTL Television             | Software Engineer                     |
+| Consulting Agency          | Adminstrator & Developer              |
 
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/scheeroliver/)
+---
 
+## My Skills
+
+| **Category**           | **Technologies & Tools**                                           |
+| ---------------------- | ------------------------------------------------------------------ |
+| Programming Languages  | C#, TypeScript, Python, SQL                                        |
+| Frameworks             | .net, Blazor, ASP:NET, Entitiy Framework, React, Angular           |
+| AI                     | Azure OpenAI, OpenAI, ...                                          |
+| Architecture & Design  | Clean Architecture, DDD, CQRS, REST Apis                           |
+| DevOps & Tools         | Git, GitHub, Azure DevOps                                          |
+| Container              | Docker, Kubernetes                                                 |
+| Testing                | xUnit, NUnit...                                                    |
+| Cloud                  | Azure                                                              |
+| Databases              | Azure SQL, SQL Server, CosmosDb, ...                               |
+| Sonstiges              | Visual Studio, Visual Studio Code, JetBrains Rider, Markdown, ADRs |
+| Constant learning .... |                                                                    |
+
+---
+
+## Services that I'm offering as part of my Job at my company Medialesson
+
+- Team Coaching
+- Cloud Engineering
+- Web & App Developmnet
+- Training Workshops
+- Code Reviews,
+- Team Leadership
+- Ad-hoc services
+- Prototyping & Product Development
+- ...
+
+---
+
+## My Certifications
+
+I like constant learning, some of my certificatins
+
+| Date | Title | Description |
+| ---- | ----- | ----------- |
+| abc  | ddd   | ddd         |
+
+---
+
+### My (constantly changing) Toolbox
+
+- Visual Studio
+- Visual Studio Code
+- WSL & Ubuntu
+- NEXT.js
+- Shadcn
+- Tailwind
+- vite
+- Postman
+- GitHub Copilit
+- Draw.io
+- GitHub: Issues, Actions, Projects
+- ...
