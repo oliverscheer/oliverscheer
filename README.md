@@ -1,10 +1,8 @@
-# Hello and Servus👋
+# Hello 👋
 
 Hey, I'm Oliver Scheer.
 
 Nice to have you here.
-
-"Code is like humor. When you have to explain it, it’s bad." — Cory House
 
 ---
 
