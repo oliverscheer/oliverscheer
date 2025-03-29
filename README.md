@@ -38,8 +38,8 @@ Nice to have you here.
 
 | **Category**           | **Technologies & Tools**                                           |
 | ---------------------- | ------------------------------------------------------------------ |
-| Programming Languages  | C#, TypeScript, Python, SQL                                        |
-| Frameworks             | .net, Blazor, ASP:NET, Entitiy Framework, React, Angular           |
+| Programming Languages  | C#, TypeScript, JavaScript, Python, SQL                                        |
+| Frameworks & Platforms | .net, Blazor, ASP:NET, Entitiy Framework, React, Angular, node.js           |
 | AI                     | Azure OpenAI, OpenAI, ...                                          |
 | Architecture & Design  | Clean Architecture, DDD, CQRS, REST Apis                           |
 | DevOps & Tools         | Git, GitHub, Azure DevOps                                          |
