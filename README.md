@@ -70,9 +70,26 @@ Nice to have you here.
 
 I like constant learning, some of my certificatins
 
-| Date | Title | Description |
-| ---- | ----- | ----------- |
-| abc  | ddd   | ddd         |
+Microsoft Certifications
+-	Azure Solutions Architect Expert
+-	Azure Developer Associate
+-	Azure Administrator Associate
+-	Azure Data Engineer Associate
+-	Azure Data Scientist Associate
+-	Azure AI Fundamentals
+-	Azure Fundamentals
+  
+GitHub Certifications
+-	GitHub Administration
+-	GitHub Actions
+-	GitHub Advanced Security
+  
+Scrum & Agile
+-	Certified SCRUM Product Owner (CSPO)
+  
+Other Professional Training
+-	INSEAD: Challenging Customers through Business Model Innovation
+-	Sybase IQ – Data Warehouse for Developers
 
 ---
 
@@ -86,7 +103,7 @@ I like constant learning, some of my certificatins
 - Tailwind
 - vite
 - Postman
-- GitHub Copilit
+- GitHub Copilot
 - Draw.io
 - GitHub: Issues, Actions, Projects
 - ...
