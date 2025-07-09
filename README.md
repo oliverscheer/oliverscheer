@@ -26,6 +26,7 @@ Nice to have you here.
 
 | Company                    | Title                                 |
 | -------------------------- | ------------------------------------- |
+| Adesso                     | Software Architect                    |
 | Medialesson                | Principal Software Engineer           |
 | Microsoft Corporation      | Senior Software Engineer              |
 | Microsoft Deutschland GmbH | Senior Technical & Partner Evangelist |
@@ -43,22 +44,24 @@ Nice to have you here.
 | AI                     | Azure OpenAI, OpenAI, ...                                          |
 | Architecture & Design  | Clean Architecture, DDD, CQRS, REST Apis                           |
 | DevOps & Tools         | Git, GitHub, Azure DevOps                                          |
-| Container              | Docker, Kubernetes                                                 |
+| Container              | Docker, Kubernetes, AKS                                            |
 | Testing                | xUnit, NUnit...                                                    |
 | Cloud                  | Azure                                                              |
-| Databases              | Azure SQL, SQL Server, CosmosDb, ...                               |
-| Sonstiges              | Visual Studio, Visual Studio Code, JetBrains Rider, Markdown, ADRs |
+| Databases              | Azure SQL, SQL Server, CosmosDb, PostgreSql, Access :-)...         |
+| Tools                  | Visual Studio, Visual Studio Code, JetBrains Rider, Markdown, ADRs |
+| Operating Systems      | Windows, Linux, MacOS                                              |
 | Constant learning .... |                                                                    |
 
 ---
 
-## Services that I'm offering as part of my Job at my company Medialesson
+## Services that I'm offering as part of my Job and Passion
 
 - Team Coaching
 - Cloud Engineering
 - Web & App Developmnet
 - Training Workshops
-- Code Reviews,
+- Database Design
+- Code Reviews
 - Team Leadership
 - Ad-hoc services
 - Prototyping & Product Development
@@ -93,10 +96,11 @@ Other Professional Training
 
 ---
 
-### My (constantly changing) Toolbox
+### My current (but constantly changing) Toolbox
 
 - Visual Studio
 - Visual Studio Code
+- Rider
 - WSL & Ubuntu
 - NEXT.js
 - Shadcn
@@ -107,3 +111,10 @@ Other Professional Training
 - Draw.io
 - GitHub: Issues, Actions, Projects
 - ...
+
+---
+
+### Public Fun Facts about Me
+
+- Live Concert Fanatic, I will never skip a tour of U2, Die Toten Hosen, and many others. 
+- Father of 3 girls
