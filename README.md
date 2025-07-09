@@ -8,12 +8,12 @@ Nice to have you here.
 
 ## Some Facts About Me
 
-- Principal Software Engineer
+- Software Architect & Principal Software Engineer
 - More than 25+ years of professional experiences in software development
 - Passionated about solving challenges with innovation and pragmatism
-- Focusing on modern technologies like AI, Cloud, DevOps like .net, Python, GitHub, and many more
+- Focusing on modern technologies like AI, Cloud, DevOps like .net, C#, .NET, GitHub, and many more
 - Enthusiastic about good developer experiences and satisfied customers
-- Promote continuous learning and support teams in constantly improving.
+- Promote continuous learning and support teams in constantly improving
 - Passionated about Software Engineering
 - 🏠 Living close to Munich, Germany, Europe, Planet Earth
 - 🌐 Homepage is always under construction: [https://www.oliverscheer.tech](https://www.oliverscheer.tech)
@@ -39,8 +39,8 @@ Nice to have you here.
 
 | **Category**           | **Technologies & Tools**                                           |
 | ---------------------- | ------------------------------------------------------------------ |
-| Programming Languages  | C#, TypeScript, JavaScript, Python, SQL                                        |
-| Frameworks & Platforms | .net, Blazor, ASP:NET, Entitiy Framework, React, Angular, node.js           |
+| Programming Languages  | C#, TypeScript, JavaScript, Python, SQL                            |
+| Frameworks & Platforms | .net, Blazor, ASP:NET, Entitiy Framework, React, Angular, node.js  |
 | AI                     | Azure OpenAI, OpenAI, ...                                          |
 | Architecture & Design  | Clean Architecture, DDD, CQRS, REST Apis                           |
 | DevOps & Tools         | Git, GitHub, Azure DevOps                                          |
@@ -102,6 +102,7 @@ Other Professional Training
 - Visual Studio Code
 - Rider
 - WSL & Ubuntu
+- .NET, Entity Framework, and many more tools
 - NEXT.js
 - Shadcn
 - Tailwind
